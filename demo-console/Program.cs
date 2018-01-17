@@ -21,5 +21,13 @@ namespace demo_console
             Console.WriteLine("Print From Giles3");
 
         }
+
+        static void PrintAlex()
+        {
+            Console.WriteLine("Print From Alex");
+            Console.WriteLine("Print From Alex2");
+            Console.WriteLine("Print From Alex3");
+
+        }
     }
 }
