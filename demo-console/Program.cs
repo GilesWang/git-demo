@@ -16,7 +16,10 @@ namespace demo_console
 
         static void PrintGiles()
         {
-            Console.WriteLine("Print From Giles");            
+            Console.WriteLine("Print From Giles"); 
+            Console.WriteLine("Print From Giles2");
+            Console.WriteLine("Print From Giles3");
+
         }
     }
 }
