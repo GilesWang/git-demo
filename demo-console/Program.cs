@@ -13,5 +13,10 @@ namespace demo_console
             Console.WriteLine("Hello World");
             Console.Read();
         }
+
+        static void PrintGiles()
+        {
+            Console.WriteLine("Print From Giles");            
+        }
     }
 }
